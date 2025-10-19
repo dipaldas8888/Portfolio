@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Java (Core, OOPs, and Data Structures)",
+    "issuer": "HackerRank",
+    "duration": "02/2025",
+    "link": ""
+  },
+  {
+    "name": "React Bootcamp",
+    "issuer": "Internshala",
+    "duration": "11/2022",
+    "link": ""
+  },
+  {
+    "name": "Spring Boot Bootcamp",
+    "issuer": "Udemy",
+    "duration": "04/2025",
+    "link": ""
+  },
+  {
+    "name": "The Ultimate SQL Bootcamp",
+    "issuer": "Udemy",
+    "duration": "04/2025",
+    "link": ""
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "NextCart – E-commerce Platform",
+    "desc": "Full-stack e-commerce web app with product catalog, cart management, and order placement. Implemented Firebase Auth for secure login, Neon DB for product & order storage, and Cloudinary for product image uploads.",
+    "tags": ["React.js", "Spring Boot", "Firebase Auth", "Neon DB", "Cloudinary", "Tailwind CSS", "REST APIs"],
+    "link": "https://next-cart-4xks.vercel.app/"
+  },
+  {
+    "name": "NovaCare – Doctor Appointment System",
+    "desc": "Healthcare platform enabling patients to register/login, search doctors by specialization, and book appointments. Doctors can update their profiles and images stored via Cloudinary. Backend built with Spring Boot & Neon DB, secured with Firebase Authentication.",
+    "tags": ["React.js", "Spring Boot", "Firebase Auth", "Neon DB", "Cloudinary", "Shadcn UI", "REST APIs"],
+    "link": "https://nova-care-ui.vercel.app/"
+  },
+  {
+    "name": "Smartshelf – Library Management App",
+    "desc": "Full-stack system to manage books, members, and borrow/return transactions. Built with JWT-based authentication, REST APIs for CRUD operations, and MySQL for persistence. Designed a responsive frontend with React and Tailwind CSS.",
+    "tags": ["React.js", "Spring Boot", "MySQL", "JWT", "Tailwind CSS", "REST APIs"],
+    "link": ""
+  }
+]
